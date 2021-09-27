@@ -9,8 +9,13 @@ html {
   font-size: 10px;
   font-family: "Montserrat", sans-serif;
   scroll-behavior: smooth;
+  overflow:scroll;
+
 }
 
+body{
+  overflow: hidden;
+}
 a {
   text-decoration: none;
 }
